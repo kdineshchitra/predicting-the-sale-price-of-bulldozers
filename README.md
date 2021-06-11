@@ -20,7 +20,7 @@ The data for this competition is split into three parts:
 3. Test.csv is the test set. It contains data from May 1, 2012 - November 2012.  
 
 Since this data contains data points indexed in time order(in saledate feature), this dataset is a Timeseries data.  
-Refer the [data dictionary](https://github.com/kdineshchitra/predicting-the-sale-price-of-bulldozers/blob/master/Data%20Dictionary.csv) provided (by Kaggle competition creators) with this dataset to understand more about the features of the data.  
+Refer the [data dictionary](https://github.com/kdineshchitra/predicting-the-sale-price-of-bulldozers/blob/master/assets/Data%20Dictionary.csv) provided (by Kaggle competition creators) with this dataset to understand more about the features of the data.  
 
 ## Data Cleaning & Preprocessing
 
@@ -47,7 +47,7 @@ Other than RMSLE, the following evaluation metrics are used to test the model pe
 - mean_squared_log_error  
 
 Finally the trained model is analyzed to find the feature importances.  
-<img src="images/Feature Importance.png" alt="Feature Importance" />  
+<img src="assets/Feature Importance.png" alt="Feature Importance" />  
 
 ## Further experiment and analysis
 
