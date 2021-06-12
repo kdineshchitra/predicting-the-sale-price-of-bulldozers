@@ -61,7 +61,7 @@ Such as,
 - Modifying/Improving the model evaluation methods & metrics
 
 Spending more time to understand the problem and data helps, ALWAYS.  
-Consulting a subject matter export(SEM) on the data would be great to see all the information in a productive way with the domain knowledge.  
+Consulting a subject matter export(SME) on the data would be great to see all the information in a productive way with the domain knowledge.  
 
 The machine learning model creation, training and development are always an iterative experimentation process. Every problems and questions which are required answer have their own different kind of solutions. Approaching different problems in their own ways within the given situation and statements is important.  
 Starting with understanding the problem statement, which question is to be answered, why and how much it is to solve are paramount.  
