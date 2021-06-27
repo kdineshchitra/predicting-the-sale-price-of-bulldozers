@@ -13,7 +13,7 @@ This project is a single notebook(.ipynb file) in Python3, created using [Google
 
 ## Data to solve the problem:
 
-The data is taken from the Blue Book for Bulldozers Kaggle Competition.([link here](https://www.kaggle.com/c/bluebook-for-bulldozers/data))  
+The data is taken from the [Blue Book for Bulldozers Kaggle Competition](https://www.kaggle.com/c/bluebook-for-bulldozers/data).  
 The data for this competition is split into three parts:
 1. Train.csv is the training set, which contains data through the end of 2011.
 2. Valid.csv is the validation set, which contains data from January 1, 2012 - April 30, 2012.
